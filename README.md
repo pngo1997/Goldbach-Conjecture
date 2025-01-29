@@ -11,6 +11,7 @@ This project implements **two variations** of **Goldbach’s Conjecture**, a fam
    - A variation of Goldbach’s Conjecture that **adds an extra condition** to analyze the properties of prime summations.
    - It checks **whether there are multiple unique prime pairs** for a given even number.
    - Used to explore Goldbach’s Conjecture beyond basic verification.
+   - Applied **BINARY SEARCH.**
 
 ## 🎯 Features
 ✅ **Goldbach’s Conjecture Solver**:  
